@@ -1,5 +1,5 @@
 import Datos from "../assets/Productos.json"
-import imagen from "../assets/curso.jpg"
+import imagen from "../assets/producto.jpg"
 
 const datos = Datos.productos
 
@@ -7,7 +7,7 @@ console.log(datos)
 const Tarjeta = () => {
 	return (
 		<div className="contenido">
-
+			<h1>PRODUCTOS</h1>
 
 			{
 				datos.map((dato) => (

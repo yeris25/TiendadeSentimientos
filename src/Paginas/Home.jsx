@@ -33,7 +33,7 @@ const Home = () => {
 
 			<footer>
 				<section className="footer-content">
-					<p>Tiendas Los Sentimientos</p>
+					<h3>Los Sentimientos</h3>
 
 				</section>
 				<div className="footer-bottom">

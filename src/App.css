@@ -73,7 +73,8 @@ h1 {
   text-align: center;
   background-color: red;
   color: white;
-  height: 30px;
+  height: 50px;
+  font-size: 20px;
 
 }
 
@@ -134,7 +135,7 @@ footer {
   position: absolute;
 
   background: salmon;
-  height: 50px;
+  height: 100px;
   width: 100vw;
   padding-top: 40px;
   color: #fff;
@@ -150,13 +151,13 @@ footer {
 
 .footer-content h3 {
   font-size: 2.1rem;
-  font-weight: 500;
+  font-weight: 200;
   text-transform: capitalize;
   line-height: 3rem;
 }
 
 .footer-bottom {
-  background: red;
+  background: crimson;
   width: 100vw;
   padding: 20px;
   padding-bottom: 40px;
