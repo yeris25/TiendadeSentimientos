@@ -1,0 +1,588 @@
+{
+	"productos": [
+		{
+			"nombre": "Kit de autocompasión",
+			"descripcion": "Un kit con herramientas para practicar la autocompasión y cultivar una relación amorosa contigo mismo.",
+			"precio": 26.99,
+			"categoria": "Autocuidado",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Póster de relajación",
+			"descripcion": "Un póster con imágenes relajantes y consejos para ayudarte a encontrar momentos de tranquilidad en tu día a día.",
+			"precio": 8.99,
+			"categoria": "Relajación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Set de tarjetas de gratitud",
+			"descripcion": "Un set de tarjetas en las que puedes escribir diariamente aquello por lo que te sientes agradecido en tu vida.",
+			"precio": 9.99,
+			"categoria": "Autocuidado",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Kit de mandalas para colorear",
+			"descripcion": "Un kit con mandalas para colorear y lápices de colores, ideal para relajarte y estimular tu creatividad.",
+			"precio": 14.99,
+			"categoria": "Creatividad",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Collar de la amistad",
+			"descripcion": "Un collar con colgantes complementarios que simboliza la conexión y el amor entre amigos.",
+			"precio": 13.99,
+			"categoria": "Amistad",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Aceite esencial de lavanda",
+			"descripcion": "Un aceite esencial de lavanda, conocido por sus propiedades relajantes y calmantes, ideal para aromaterapia.",
+			"precio": 9.99,
+			"categoria": "Bienestar",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Libro de pensamientos positivos",
+			"descripcion": "Un libro que recopila pensamientos positivos y reflexiones inspiradoras para alegrar tu día.",
+			"precio": 17.99,
+			"categoria": "Motivación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Set de velas de meditación",
+			"descripcion": "Un set de velas especialmente diseñadas para crear un ambiente propicio para la meditación y la introspección.",
+			"precio": 21.99,
+			"categoria": "Relajación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Taza de gratitud",
+			"descripcion": "Una taza con mensajes y espacio para anotar diariamente aquello por lo que te sientes agradecido.",
+			"precio": 8.99,
+			"categoria": "Autocuidado",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Kit de escritura inspiradora",
+			"descripcion": "Un kit con un cuaderno y un set de bolígrafos con mensajes inspiradores para estimular tu creatividad y motivación.",
+			"precio": 12.99,
+			"categoria": "Motivación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Set de tarjetas de mindfulness",
+			"descripcion": "Un set de tarjetas con ejercicios de mindfulness y técnicas de relajación para encontrar paz interior.",
+			"precio": 9.99,
+			"categoria": "Bienestar",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Cojín de meditación",
+			"descripcion": "Un cojín cómodo y ergonómico diseñado para facilitar la postura adecuada durante la meditación.",
+			"precio": 24.99,
+			"categoria": "Meditación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Libro de frases motivadoras",
+			"descripcion": "Un libro que recopila frases motivadoras de líderes y personas inspiradoras para impulsar tu confianza y determinación.",
+			"precio": 15.99,
+			"categoria": "Motivación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Vela aromática de relajación",
+			"descripcion": "Una vela con aroma relajante para crear un ambiente sereno y propicio para la relajación y la calma.",
+			"precio": 11.99,
+			"categoria": "Relajación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Kit de mindfulness para adultos",
+			"descripcion": "Un kit con herramientas y ejercicios de mindfulness para cultivar la atención plena y reducir el estrés.",
+			"precio": 19.99,
+			"categoria": "Bienestar",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Collar con colgante de corazón",
+			"descripcion": "Un collar con un colgante en forma de corazón para expresar amor y afecto hacia alguien especial.",
+			"precio": 10.99,
+			"categoria": "Amor",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Set de aceites esenciales",
+			"descripcion": "Un set de aceites esenciales de diferentes aromas para utilizar en aromaterapia y promover el bienestar emocional.",
+			"precio": 29.99,
+			"categoria": "Bienestar",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Libro de gratitud",
+			"descripcion": "Un libro con ejercicios y reflexiones sobre la gratitud y cómo cultivar una actitud agradecida en la vida.",
+			"precio": 16.99,
+			"categoria": "Autocuidado",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Set de velas aromáticas de diferentes aromas",
+			"descripcion": "Un set de velas aromáticas con diferentes fragancias para crear un ambiente relajante y acogedor.",
+			"precio": 19.99,
+			"categoria": "Relajación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Taza con mensaje de amor propio",
+			"descripcion": "Una taza con un mensaje inspirador de amor propio y aceptación para empezar el día con una actitud positiva.",
+			"precio": 7.99,
+			"categoria": "Amor propio",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Kit de relajación para baño",
+			"descripcion": "Un kit con sales de baño, bombas efervescentes y velas para crear un ambiente relajante durante el baño.",
+			"precio": 22.99,
+			"categoria": "Relajación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Collar con colgante de mariposa",
+			"descripcion": "Un collar con un colgante en forma de mariposa que simboliza la transformación y la belleza interior.",
+			"precio": 11.99,
+			"categoria": "Inspiración",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Libro de mindfulness para principiantes",
+			"descripcion": "Un libro que introduce los conceptos básicos del mindfulness y ofrece ejercicios prácticos para empezar a practicar.",
+			"precio": 13.99,
+			"categoria": "Bienestar",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Cojín de abrazos",
+			"descripcion": "Un cojín suave y acogedor diseñado para simular la sensación de un abrazo reconfortante.",
+			"precio": 19.99,
+			"categoria": "Consuelo",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Kit de meditación para principiantes",
+			"descripcion": "Un kit con todo lo necesario para comenzar a practicar la meditación, incluyendo un cojín de meditación y guías de audio.",
+			"precio": 29.99,
+			"categoria": "Meditación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Set de tarjetas de afirmaciones",
+			"descripcion": "Un set de tarjetas con afirmaciones positivas para inspirarte y fortalecer tu confianza en ti mismo.",
+			"precio": 10.99,
+			"categoria": "Motivación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Kit de autocuidado para el insomnio",
+			"descripcion": "Un kit con productos y herramientas para promover el sueño reparador y mejorar la calidad del descanso.",
+			"precio": 24.99,
+			"categoria": "Autocuidado",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Vela aromática de lavanda",
+			"descripcion": "Una vela con aroma de lavanda, conocida por sus propiedades relajantes y calmantes, ideal para crear un ambiente tranquilo.",
+			"precio": 9.99,
+			"categoria": "Relajación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Pulsera de la amistad",
+			"descripcion": "Una pulsera trenzada con colores vibrantes que simboliza la amistad y la conexión entre personas especiales.",
+			"precio": 7.99,
+			"categoria": "Amistad",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Aceite esencial de eucalipto",
+			"descripcion": "Un aceite esencial de eucalipto, conocido por sus propiedades revitalizantes y purificantes, ideal para aromaterapia.",
+			"precio": 8.99,
+			"categoria": "Bienestar",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Libro de reflexiones diarias",
+			"descripcion": "Un libro con reflexiones y pensamientos inspiradores para leer cada día y empezar con una mentalidad positiva.",
+			"precio": 16.99,
+			"categoria": "Motivación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Set de inciensos relajantes",
+			"descripcion": "Un set de inciensos con fragancias relajantes para crear un ambiente tranquilo y propicio para la meditación o el descanso.",
+			"precio": 11.99,
+			"categoria": "Relajación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Taza con mensaje de motivación",
+			"descripcion": "Una taza con un mensaje inspirador de motivación para animarte y recordarte tus metas y sueños.",
+			"precio": 7.99,
+			"categoria": "Motivación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Kit de mindfulness para reducir la ansiedad",
+			"descripcion": "Un kit con técnicas y ejercicios de mindfulness específicos para reducir la ansiedad y encontrar calma mental.",
+			"precio": 21.99,
+			"categoria": "Bienestar",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Collar con colgante de luna",
+			"descripcion": "Un collar con un colgante en forma de luna para simbolizar la belleza y la serenidad.",
+			"precio": 10.99,
+			"categoria": "Inspiración",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Set de aceites esenciales de relajación",
+			"descripcion": "Un set de aceites esenciales con fragancias relajantes como lavanda y manzanilla para utilizar en difusores o baños.",
+			"precio": 18.99,
+			"categoria": "Relajación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Libro de gratitud y reflexiones",
+			"descripcion": "Un libro que combina ejercicios de gratitud con reflexiones y enseñanzas para cultivar una actitud positiva.",
+			"precio": 15.99,
+			"categoria": "Autocuidado",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Set de velas aromáticas de diferentes colores",
+			"descripcion": "Un set de velas aromáticas de diferentes colores para crear un ambiente acogedor y estimular tus sentidos.",
+			"precio": 19.99,
+			"categoria": "Relajación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Taza con mensaje de empoderamiento",
+			"descripcion": "Una taza con un mensaje inspirador de empoderamiento para recordarte lo fuerte y capaz que eres.",
+			"precio": 8.99,
+			"categoria": "Autoestima",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Kit de baño relajante",
+			"descripcion": "Un kit con productos para un baño relajante, incluyendo sales de baño, aceites esenciales y una esponja suave.",
+			"precio": 23.99,
+			"categoria": "Relajación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Collar con colgante de árbol de la vida",
+			"descripcion": "Un collar con un colgante en forma de árbol de la vida, símbolo de crecimiento, conexión y fortaleza.",
+			"precio": 12.99,
+			"categoria": "Inspiración",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Libro de mindfulness para el estrés",
+			"descripcion": "Un libro que ofrece técnicas y ejercicios de mindfulness para manejar el estrés y encontrar equilibrio emocional.",
+			"precio": 14.99,
+			"categoria": "Bienestar",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Cojín de abrazos suave y reconfortante",
+			"descripcion": "Un cojín suave y mullido diseñado para brindar comodidad y consuelo, simulando la sensación de un abrazo cálido.",
+			"precio": 21.99,
+			"categoria": "Consuelo",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Kit de meditación avanzado",
+			"descripcion": "Un kit con herramientas avanzadas para la meditación, como un cojín de meditación ergonómico y meditaciones guiadas.",
+			"precio": 34.99,
+			"categoria": "Meditación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Set de tarjetas de afirmaciones positivas",
+			"descripcion": "Un set de tarjetas con afirmaciones positivas y motivadoras para fomentar la confianza y el bienestar emocional.",
+			"precio": 9.99,
+			"categoria": "Motivación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Kit de autocuidado para el bienestar mental",
+			"descripcion": "Un kit con productos y herramientas para cuidar tu bienestar mental, como velas, aceites esenciales y un diario de gratitud.",
+			"precio": 26.99,
+			"categoria": "Autocuidado",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Vela aromática de jazmín",
+			"descripcion": "Una vela con aroma de jazmín, conocido por sus propiedades relajantes y afrodisíacas, ideal para crear un ambiente romántico.",
+			"precio": 10.99,
+			"categoria": "Relajación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Pulsera con mensaje de positividad",
+			"descripcion": "Una pulsera con un mensaje positivo y alentador para recordarte mantener una actitud optimista en todo momento.",
+			"precio": 6.99,
+			"categoria": "Positividad",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Aceite esencial de sándalo",
+			"descripcion": "Un aceite esencial de sándalo, conocido por sus propiedades relajantes y equilibrantes, ideal para aromaterapia y masajes.",
+			"precio": 11.99,
+			"categoria": "Bienestar",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Libro de reflexiones inspiradoras",
+			"descripcion": "Un libro con reflexiones y pensamientos inspiradores de grandes líderes y pensadores para nutrir tu mente y espíritu.",
+			"precio": 17.99,
+			"categoria": "Inspiración",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Set de inciensos espirituales",
+			"descripcion": "Un set de inciensos con fragancias espirituales como mirra y sándalo para crear un ambiente de calma y serenidad.",
+			"precio": 12.99,
+			"categoria": "Relajación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Taza con mensaje de autoestima",
+			"descripcion": "Una taza con un mensaje de amor propio y aceptación para recordarte lo valioso que eres.",
+			"precio": 7.99,
+			"categoria": "Amor propio",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": "Disponible"
+		},
+		{
+			"nombre": "Kit de mindfulness para la ansiedad",
+			"descripcion": "Un kit con técnicas y ejercicios de mindfulness específicos para manejar la ansiedad y encontrar paz interior.",
+			"precio": 22.99,
+			"categoria": "Bienestar",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Collar con colgante de corazón",
+			"descripcion": "Un collar con un colgante en forma de corazón que representa el amor y la conexión emocional.",
+			"precio": 9.99,
+			"categoria": "Amor",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Libro de mindfulness para la paz interior",
+			"descripcion": "Un libro que ofrece ejercicios y meditaciones de mindfulness para cultivar la paz interior y el equilibrio emocional.",
+			"precio": 13.99,
+			"categoria": "Meditación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Cojín de abrazos reconfortante",
+			"descripcion": "Un cojín suave y reconfortante diseñado para brindar apoyo emocional y consuelo en momentos difíciles.",
+			"precio": 18.99,
+			"categoria": "Consuelo",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Kit de meditación para la paz mental",
+			"descripcion": "Un kit con herramientas para practicar la meditación y encontrar la calma mental, como una vela, un cojín de meditación y un libro guía.",
+			"precio": 29.99,
+			"categoria": "Meditación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Set de tarjetas de afirmaciones diarias",
+			"descripcion": "Un set de tarjetas con afirmaciones positivas y motivadoras para fortalecer tu confianza y alimentar tu autoestima.",
+			"precio": 10.99,
+			"categoria": "Motivación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Kit de autocuidado para el equilibrio emocional",
+			"descripcion": "Un kit con productos y herramientas para promover el equilibrio emocional y el bienestar, como velas, aceites esenciales y una piedra de cuarzo.",
+			"precio": 25.99,
+			"categoria": "Autocuidado",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Vela aromática de rosa",
+			"descripcion": "Una vela con aroma de rosa, conocida por sus propiedades relajantes y afrodisíacas, ideal para crear un ambiente romántico.",
+			"precio": 9.99,
+			"categoria": "Relajación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Pulsera con mensaje de inspiración",
+			"descripcion": "Una pulsera con un mensaje inspirador y motivador para recordarte perseguir tus sueños y alcanzar tus metas.",
+			"precio": 6.99,
+			"categoria": "Inspiración",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Aceite esencial de rosa mosqueta",
+			"descripcion": "Un aceite esencial de rosa mosqueta, conocido por sus propiedades regeneradoras y rejuvenecedoras para la piel y el cuerpo.",
+			"precio": 11.99,
+			"categoria": "Bienestar",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Libro de reflexiones positivas",
+			"descripcion": "Un libro con reflexiones y pensamientos positivos para alimentar tu mente y cultivar una actitud optimista.",
+			"precio": 17.99,
+			"categoria": "Positividad",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Set de inciensos de relajación y purificación",
+			"descripcion": "Un set de inciensos con fragancias relajantes y purificadoras, como sándalo y mirra, para crear un ambiente armonioso.",
+			"precio": 12.99,
+			"categoria": "Relajación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Taza con mensaje de motivación diaria",
+			"descripcion": "Una taza con un mensaje de motivación diaria para empezar cada día con energía y determinación.",
+			"precio": 7.99,
+			"categoria": "Motivación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Kit de mindfulness para la tranquilidad",
+			"descripcion": "Un kit con técnicas y ejercicios de mindfulness para cultivar la tranquilidad y el bienestar emocional.",
+			"precio": 22.99,
+			"categoria": "Bienestar",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Collar con colgante de mariposa",
+			"descripcion": "Un collar con un colgante en forma de mariposa, símbolo de transformación y cambio positivo.",
+			"precio": 9.99,
+			"categoria": "Inspiración",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Libro de mindfulness para la felicidad",
+			"descripcion": "Un libro que te guía en el camino hacia la felicidad a través de ejercicios y meditaciones de mindfulness.",
+			"precio": 13.99,
+			"categoria": "Meditación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Cojín de abrazos reconfortante y suave",
+			"descripcion": "Un cojín suave y reconfortante diseñado para brindar apoyo emocional y consuelo en momentos difíciles.",
+			"precio": 18.99,
+			"categoria": "Consuelo",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Kit de meditación para la serenidad",
+			"descripcion": "Un kit con herramientas para practicar la meditación y encontrar la serenidad interior, como una vela, un cojín de meditación y una piedra de cuarzo.",
+			"precio": 29.99,
+			"categoria": "Meditación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Set de tarjetas de afirmaciones de autoestima",
+			"descripcion": "Un set de tarjetas con afirmaciones positivas y motivadoras para fortalecer tu autoestima y amor propio.",
+			"precio": 10.99,
+			"categoria": "Amor propio",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Kit de autocuidado para el bienestar emocional",
+			"descripcion": "Un kit con productos y herramientas para cuidar tu bienestar emocional, como velas aromáticas, aceites esenciales y un diario de gratitud.",
+			"precio": 25.99,
+			"categoria": "Autocuidado",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		},
+		{
+			"nombre": "Vela aromática de lavanda",
+			"descripcion": "Una vela con aroma de lavanda, conocida por sus propiedades relajantes y calmantes, ideal para crear un ambiente tranquilo.",
+			"precio": 9.99,
+			"categoria": "Relajación",
+			"tienda": "Tienda de Sentimientos",
+			"disponibilidad": true
+		}
+	]
+}
