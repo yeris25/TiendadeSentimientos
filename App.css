@@ -1,0 +1,120 @@
+.menudes {
+  position: relative;
+  overflow: hidden;
+  width: 70%;
+  margin: 10px auto 10px;
+  border-radius: 8px;
+  background: lightcoral;
+  text-align: center;
+  height: 1cm;
+}
+
+.menudes a {
+  display: inline-block;
+  width: 25%;
+  /* 100% dividido por el número de elementos del menú */
+  box-sizing: border-box;
+  padding: 10px 5px;
+  color: black;
+  text-decoration: none;
+}
+
+.marca {
+  position: absolute;
+  bottom: 4px;
+  left: -12.5%;
+  /* Al menos 1/2 del ancho de cada enlace */
+  width: 12.5%;
+  /* 1/2 del ancho de cada enlace */
+  height: 2px;
+  background: white;
+  transition: 0.5s ease-in-out;
+}
+
+.menudes a:nth-child(1):hover~.marca {
+  left: 6.25%;
+  /* 1/4 Ancho del enlace */
+}
+
+.menudes a:nth-child(2):hover~.marca {
+  left: 31.25%;
+  /* 1/4 Ancho del enlace + 1 vez ancho enlace */
+}
+
+.menudes a:nth-child(3):hover~.marca {
+  left: 56.25%;
+  /* 1/4 Ancho del enlace + 2 veces ancho enlace */
+}
+
+.menudes a:nth-child(4):hover~.marca {
+  left: 81.5%;
+  /* 1/4 Ancho del enlace + 3 veces ancho enlace */
+}
+
+
+.titulo {
+  background-color: white;
+  margin-left: 50px;
+  height: 1px;
+}
+
+.texto {
+  background-color: white;
+  margin-top: 20px;
+  height: 5cm;
+  text-align: center;
+  padding: 15px;
+
+
+}
+
+.contenido {
+  background-color: palevioletred;
+}
+
+
+.tarjeta {
+  display: flex;
+  padding: 2px 16px;
+  background-color: floralwhite;
+  margin: 20px;
+  box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  height: 7cm;
+  margin-top: 10px;
+
+
+
+
+}
+
+.tarjeta:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+
+}
+
+img {
+  width: 100%;
+  height: 5cm;
+  margin-top: 30px;
+
+}
+
+
+
+.imagen {
+  width: 6cm;
+
+}
+
+.titulos {
+  width: 3cm;
+  margin-left: 10px;
+
+
+}
+
+.datos {
+  width: 20cm;
+
+}
